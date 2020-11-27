@@ -22,7 +22,7 @@ public class TopMenu extends TestBase {
 
         for (int i = 0; i < list.size(); i++) {
             menu.add(list.get(i).getText());
-            System.out.println(menu);
+            //System.out.println(menu);
             //List<String> list1 = Arrays.asList("Computers", "Electronics", "Apparel", "Digital downloads","Books","Jewelry","Gift Cards");
             //Assert.assertEquals(list1, menu);
         }
